@@ -13,12 +13,12 @@ mongoose.Promise = Promise
 const port = process.env.PORT || 8080;
 const app = express();
 
-// Middlewares to enable cors and json body parsing
+//// Middlewares to enable cors and json body parsing
 app.use(cors());
 app.use(express.json());
 app.use(bodyParser.json());
 
-// Mongoose connection
+//// Mongoose connection
 app.use((req, res, next) => {
   if (mongoose.connection.readyState === 1) {
     next()
@@ -50,18 +50,7 @@ const UserSchema = new mongoose.Schema({
 
 const User = mongoose.model("User", UserSchema)
 
-// Middleware to check accessTokens
-// const authenticateUser = async (req, res, next) => {
-//   const user = await User.findOne({accessToken: req.header("Authorization")});
-//   if (user) {
-//     req.user = user;
-//     next();
-//   } else {
-//     res.status(401).json({loggedOut: true});
-//   }
-// };
-
-// ROUTES starting here 
+//// Routes starting here 
 app.get("/", (req, res) => {
   res.send(
     {
@@ -139,23 +128,7 @@ app.post("/login", async (req, res) => {
   }
 });
 
-// // From Vans codealong, change name of endpoint later on/remove all together?
-// app.get("/secrets", authenticateUser);
-// app.get("/secrets", (req, res) => {
-//   res.json({ secret: "This is a super secret message for you!"});
-// });
-
-// // ENDPOINT FOR LOGGING IN - check out Daniels lecture.
-// app.post("/login", async (req, res) => {
-//   const user = await User.findOne({email: req.body.email});
-//   if (user && bcrypt.compareSync(req.body.password , user.password)){
-//     res.json({userId: user._id, accessToken: user.accessToken});
-//   } else {
-//     res.json({notFound: true});
-//   }
-// });
-
-// Start the server
+//// Start the server
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
 });
