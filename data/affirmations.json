@@ -1,0 +1,602 @@
+[
+    {
+        "id": "1",
+        "affirmation": "There is no one better to be than myself."
+    },
+    {
+        "id": "2",
+        "affirmation": "I am enough."
+    },
+    {
+        "id": "3",
+        "affirmation": "I get better every single day."
+    },
+    {
+        "id": "4",
+        "affirmation": "I am an amazing."
+    },
+    {
+        "id": "5",
+        "affirmation": "All of my problems have solutions."
+    },
+    {
+        "id": "6",
+        "affirmation": "Today I am a leader."
+    },
+    {
+        "id": "7",
+        "affirmation": "I forgive myself for my mistakes."
+    },
+    {
+        "id": "8",
+        "affirmation": "My challenges help me grow."
+    },
+    {
+        "id": "9",
+        "affirmation": "I am perfect just the way I am."
+    },
+    {
+        "id": "10",
+        "affirmation": "My mistakes help me learn and grow."
+    },
+    {
+        "id": "11",
+        "affirmation": "Today is going to be a great day."
+    },
+    {
+        "id": "12",
+        "affirmation": "I have courage and confidence."
+    },
+    {
+        "id": "13",
+        "affirmation": "I can control my own happiness."
+    },
+    {
+        "id": "14",
+        "affirmation": "I have people who love and respect me."
+    },
+    {
+        "id": "15",
+        "affirmation": "I stand up for what I believe in."
+    },
+    {
+        "id": "16",
+        "affirmation": "I believe in my goals and dreams."
+    },
+    {
+        "id": "17",
+        "affirmation": "It is okay not to know everything."
+    },
+    {
+        "id": "18",
+        "affirmation": "Today I choose to think positive."
+    },
+    {
+        "id": "19",
+        "affirmation": "I can get through anything."
+    },
+    {
+        "id": "20",
+        "affirmation": "I can do anything I put my mind to."
+    },
+    {
+        "id": "21",
+        "affirmation": "I give myself permission to make choices."
+    },
+    {
+        "id": "22",
+        "affirmation": "I can do better next time."
+    },
+    {
+        "id": "23",
+        "affirmation": "I have everything I need right now."
+    },
+    {
+        "id": "24",
+        "affirmation": "I am capable of so much."
+    },
+    {
+        "id": "25",
+        "affirmation": "Everything will be okay."
+    },
+    {
+        "id": "26",
+        "affirmation": "I believe in myself."
+    },
+    {
+        "id": "27",
+        "affirmation": "I am proud of myself."
+    },
+    {
+        "id": "28",
+        "affirmation": "I deserve to be happy."
+    },
+    {
+        "id": "29",
+        "affirmation": "I am free to make my own choices."
+    },
+    {
+        "id": "30",
+        "affirmation": "I deserve to be loved."
+    },
+    {
+        "id": "31",
+        "affirmation": "I can make a difference."
+    },
+    {
+        "id": "32",
+        "affirmation": "Today I choose to be confident."
+    },
+    {
+        "id": "33",
+        "affirmation": "I am in charge of my life."
+    },
+    {
+        "id": "34",
+        "affirmation": "I have the power to make my dreams come true."
+    },
+    {
+        "id": "35",
+        "affirmation": "I believe in myself and my abilities."
+    },
+    {
+        "id": "36",
+        "affirmation": "Good things are going to come to me."
+    },
+    {
+        "id": "37",
+        "affirmation": "I matter."
+    },
+    {
+        "id": "38",
+        "affirmation": "My confidence grows when I step outside of my comfort zone."
+    },
+    {
+        "id": "39",
+        "affirmation": "My positive thoughts create positive feelings."
+    },
+    {
+        "id": "40",
+        "affirmation": "Today I will walk through my fears."
+    },
+    {
+        "id": "41",
+        "affirmation": "I am open and ready to learn."
+    },
+    {
+        "id": "42",
+        "affirmation": "Every day is a fresh start."
+    },
+    {
+        "id": "43",
+        "affirmation": "If I fall, I will get back up again."
+    },
+    {
+        "id": "44",
+        "affirmation": "I am whole."
+    },
+    {
+        "id": "45",
+        "affirmation": "I only compare myself to myself."
+    },
+    {
+        "id": "46",
+        "affirmation": "I can do anything."
+    },
+    {
+        "id": "47",
+        "affirmation": "It is enough to do my best."
+    },
+    {
+        "id": "48",
+        "affirmation": "I can be anything I want to be."
+    },
+    {
+        "id": "49",
+        "affirmation": "I accept who I am."
+    },
+    {
+        "id": "50",
+        "affirmation": "Today is going to be an awesome day."
+    },
+    {
+        "id": "51",
+        "affirmation": "It is okay to make mistakes."
+    },
+    {
+        "id": "52",
+        "affirmation": "I am making the right choices."
+    },
+    {
+        "id": "53",
+        "affirmation": "I surround myself with positive people."
+    },
+    {
+        "id": "54",
+        "affirmation": "I am a product of my decisions."
+    },
+    {
+        "id": "55",
+        "affirmation": "I am strong and determined."
+    },
+    {
+        "id": "56",
+        "affirmation": "Today is going to be my day."
+    },
+    {
+        "id": "57",
+        "affirmation": "I have inner beauty."
+    },
+    {
+        "id": "58",
+        "affirmation": "I have inner strength."
+    },
+    {
+        "id": "59",
+        "affirmation": "No matter how hard it is, I can do it."
+    },
+    {
+        "id": "60",
+        "affirmation": "I can live in the moment."
+    },
+    {
+        "id": "61",
+        "affirmation": "I start with a positive mindset."
+    },
+    {
+        "id": "62",
+        "affirmation": "Anything is possible."
+    },
+    {
+        "id": "63",
+        "affirmation": "I radiate positive energy."
+    },
+    {
+        "id": "64",
+        "affirmation": "Wonderful things are going to happen to me."
+    },
+    {
+        "id": "65",
+        "affirmation": "I can take deep breaths."
+    },
+    {
+        "id": "66",
+        "affirmation": "With every breath, I feel stronger."
+    },
+    {
+        "id": "67",
+        "affirmation": "I am an original."
+    },
+    {
+        "id": "68",
+        "affirmation": "I deserve all good things."
+    },
+    {
+        "id": "69",
+        "affirmation": "My success is just around the corner."
+    },
+    {
+        "id": "70",
+        "affirmation": "I give myself permission to make mistakes."
+    },
+    {
+        "id": "71",
+        "affirmation": "I am thankful for today."
+    },
+    {
+        "id": "72",
+        "affirmation": "I strive to do my best every day."
+    },
+    {
+        "id": "73",
+        "affirmation": "I am going to push through."
+    },
+    {
+        "id": "74",
+        "affirmation": "I've got this."
+    },
+    {
+        "id": "75",
+        "affirmation": "I can take it one step at a time."
+    },
+    {
+        "id": "76",
+        "affirmation": "I am working at my own pace."
+    },
+    {
+        "id": "77",
+        "affirmation": "I am going to take a chance."
+    },
+    {
+        "id": "78",
+        "affirmation": "Today I am going to shine."
+    },
+    {
+        "id": "79",
+        "affirmation": "I am going to get through this."
+    },
+    {
+        "id": "80",
+        "affirmation": "I'm choosing to have an amazing day."
+    },
+    {
+        "id": "81",
+        "affirmation": "I am in control of my emotions."
+    },
+    {
+        "id": "82",
+        "affirmation": "My possibilities are endless."
+    },
+    {
+        "id": "83",
+        "affirmation": "I am calm and relaxed."
+    },
+    {
+        "id": "84",
+        "affirmation": "I am working on myself."
+    },
+    {
+        "id": "85",
+        "affirmation": "I am prepared to succeed."
+    },
+    {
+        "id": "86",
+        "affirmation": "I am beautiful inside and out."
+    },
+    {
+        "id": "87",
+        "affirmation": "Everything is fine."
+    },
+    {
+        "id": "88",
+        "affirmation": "My voice matters."
+    },
+    {
+        "id": "89",
+        "affirmation": "I accept myself for who I am."
+    },
+    {
+        "id": "90",
+        "affirmation": "I am building my future."
+    },
+    {
+        "id": "91",
+        "affirmation": "I choose to think positively."
+    },
+    {
+        "id": "92",
+        "affirmation": "My happiness is up to me."
+    },
+    {
+        "id": "93",
+        "affirmation": "I am starting a new chapter today."
+    },
+    {
+        "id": "94",
+        "affirmation": "I trust in my decisions."
+    },
+    {
+        "id": "95",
+        "affirmation": "I can change the world."
+    },
+    {
+        "id": "96",
+        "affirmation": "I am smart."
+    },
+    {
+        "id": "97",
+        "affirmation": "I choose my own attitude."
+    },
+    {
+        "id": "98",
+        "affirmation": "I am important."
+    },
+    {
+        "id": "99",
+        "affirmation": "I am becoming the best version of myself."
+    },
+    {
+        "id": "100",
+        "affirmation": "Today I will spread positivity."
+    },
+    {
+        "id": "101",
+        "affirmation": "The more I let it go, the better I will feel."
+    },
+    {
+        "id": "102",
+        "affirmation": "I can make my dreams come true."
+    },
+    {
+        "id": "103",
+        "affirmation": "I have got what it takes."
+    },
+    {
+        "id": "104",
+        "affirmation": "Big things start with small steps."
+    },
+    {
+        "id": "105",
+        "affirmation": "I am growing and learning every day."
+    },
+    {
+        "id": "106",
+        "affirmation": "My confidence is soaring."
+    },
+    {
+        "id": "107",
+        "affirmation": "I am ready to take up positive habits."
+    },
+    {
+        "id": "108",
+        "affirmation": "I am thankful for today."
+    },
+    {
+        "id": "109",
+        "affirmation": "I am a warrior."
+    },
+    {
+        "id": "110",
+        "affirmation": "I am celebrating my wins."
+    },
+    {
+        "id": "111",
+        "affirmation": "I choose to focus on what I can change."
+    },
+    {
+        "id": "112",
+        "affirmation": "My strength is greater than my struggle."
+    },
+    {
+        "id": "113",
+        "affirmation": "I inspire others."
+    },
+    {
+        "id": "114",
+        "affirmation": "I can always improve."
+    },
+    {
+        "id": "115",
+        "affirmation": "I am a powerhouse."
+    },
+    {
+        "id": "116",
+        "affirmation": "My ideas are unique."
+    },
+    {
+        "id": "117",
+        "affirmation": "If someone does not believe in me, I will prove them wrong."
+    },
+    {
+        "id": "118",
+        "affirmation": "I am becoming a stronger person."
+    },
+    {
+        "id": "119",
+        "affirmation": "I practice to get better."
+    },
+    {
+        "id": "120",
+        "affirmation": "I am a magnet for success."
+    },
+    {
+        "id": "121",
+        "affirmation": "Today is the day."
+    },
+    {
+        "id": "122",
+        "affirmation": "I am magnificent."
+    },
+    {
+        "id": "123",
+        "affirmation": "My struggles make me strong."
+    },
+    {
+        "id": "124",
+        "affirmation": "I strive for progress, not perfection."
+    },
+    {
+        "id": "125",
+        "affirmation": "I am a problem-solver."
+    },
+    {
+        "id": "126",
+        "affirmation": "Challenge is my middle name."
+    },
+    {
+        "id": "127",
+        "affirmation": "I have people who love me."
+    },
+    {
+        "id": "128",
+        "affirmation": "I am ready to make my dreams come true."
+    },
+    {
+        "id": "129",
+        "affirmation": "I have so much to be grateful for."
+    },
+    {
+        "id": "130",
+        "affirmation": "My feelings matter."
+    },
+    {
+        "id": "131",
+        "affirmation": "My quirks make me who I am."
+    },
+    {
+        "id": "132",
+        "affirmation": "I am capable of overcoming challenges."
+    },
+    {
+        "id": "133",
+        "affirmation": "I am doing my best."
+    },
+    {
+        "id": "134",
+        "affirmation": "Every day is a new change to thrive."
+    },
+    {
+        "id": "135",
+        "affirmation": "I choose hope over fear."
+    },
+    {
+        "id": "136",
+        "affirmation": "I deserve the best."
+    },
+    {
+        "id": "137",
+        "affirmation": "Challenges build character."
+    },
+    {
+        "id": "138",
+        "affirmation": "If I fall, I will get right back up."
+    },
+    {
+        "id": "139",
+        "affirmation": "There is no one else quite like me."
+    },
+    {
+        "id": "140",
+        "affirmation": "I see the value in myself."
+    },
+    {
+        "id": "141",
+        "affirmation": "I trust myself to make good decisions."
+    },
+    {
+        "id": "142",
+        "affirmation": "I am talented."
+    },
+    {
+        "id": "143",
+        "affirmation": "I give myself permission to have ups and downs."
+    },
+    {
+        "id": "144",
+        "affirmation": "I am generous."
+    },
+    {
+        "id": "145",
+        "affirmation": "Even when I am good at something, I can always learn more."
+    },
+    {
+        "id": "146",
+        "affirmation": "Nothing starts off easy."
+    },
+    {
+        "id": "147",
+        "affirmation": "I am exactly where I need to be."
+    },
+    {
+        "id": "148",
+        "affirmation": "My attitude makes all the difference."
+    },
+    {
+        "id": "149",
+        "affirmation": "I can breathe and relax."
+    },
+    {
+        "id": "150",
+        "affirmation": "Good things are coming my way."
+    }
+]

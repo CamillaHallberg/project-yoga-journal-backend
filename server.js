@@ -74,7 +74,7 @@ app.post("/register", async (req, res) => {
       res.status(400).json({
         response: "Your password must contain at least 8 characters",
         success: false
-      })
+      });
     } else {
     const newUser = await new User({
       username: username,
@@ -116,7 +116,7 @@ app.post("/login", async (req, res) => {
       });
     } else {
       res.status(400).json({
-        response: "Username and password do not match.",
+        response: "Username and password do not match",
         success: false
       });
     }
@@ -127,6 +127,32 @@ app.post("/login", async (req, res) => {
       success: false
     });
   }
+});
+
+const authenticateUser = async (req, res, next) => {
+  const accessToken = req.header("Authorization");
+  try {
+    const user = await User.findOne({ accessToken: accessToken});
+    if (user) {
+      next();
+    } else {
+      res.status(401).json({
+        response: "Please log in",
+        success: false
+      });
+    }
+  } catch (error) {
+    res.status(400).json({
+      response: error,
+      success: false
+    });
+  }
+}
+
+//// Two gets, first one to authenticate the user, then the user is able to get its journalentries (meaning logging in was successful)
+app.get("/journalentries", authenticateUser);
+app.get("/journalentries", (req, res) => {
+  res.send("Here are your journal entries! 😍");
 });
 
 //// Start the server
